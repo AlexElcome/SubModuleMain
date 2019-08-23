@@ -1,0 +1,3 @@
+[submodule "src/app/Alex"]
+	path = src/app/Alex
+	url = https://github.com/AlexElcome/SubModuleModule1.git
